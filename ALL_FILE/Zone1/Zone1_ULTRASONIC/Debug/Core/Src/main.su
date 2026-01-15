@@ -1,0 +1,15 @@
+../Core/Src/main.c:46:16:crc_xor	24	static
+../Core/Src/main.c:52:6:send_distance_to_master	16	static
+../Core/Src/main.c:71:13:dwt_init	4	static
+../Core/Src/main.c:78:13:delay_us	24	static
+../Core/Src/main.c:85:13:hcsr04_trigger	8	static
+../Core/Src/main.c:92:6:HAL_TIM_IC_CaptureCallback	24	static
+../Core/Src/main.c:103:6:HAL_SPI_TxRxCpltCallback	16	static
+../Core/Src/main.c:111:6:HAL_SPI_ErrorCallback	16	static
+../Core/Src/main.c:119:5:main	16	static
+../Core/Src/main.c:178:6:SystemClock_Config	72	static
+../Core/Src/main.c:217:13:MX_SPI1_Init	8	static
+../Core/Src/main.c:254:13:MX_TIM4_Init	72	static
+../Core/Src/main.c:326:13:MX_DMA_Init	16	static
+../Core/Src/main.c:347:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:402:6:Error_Handler	4	static,ignoring_inline_asm

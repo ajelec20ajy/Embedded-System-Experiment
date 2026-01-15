@@ -1,0 +1,3 @@
+../Core/Src/ADXL345.c:24:6:Init_Accel	56	static
+../Core/Src/ADXL345.c:86:6:Read_Accel	16	static
+../Core/Src/ADXL345.c:92:6:Accel_ProcessData	24	static
